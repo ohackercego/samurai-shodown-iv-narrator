@@ -1,0 +1,13 @@
+# Compile output
+Ss4Narrator.exe
+*.pdb
+
+# Logs and diagnostics produced at runtime
+log.txt
+*.log
+run_*.out
+run_*.err
+
+# Source backups
+*.bak
+*.bak-*
