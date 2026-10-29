@@ -4,6 +4,9 @@ A screen reader narrator for **SAMURAI SHODOWN IV (GOG / Neo Geo port by Code My
 It reads the game's own memory to announce menus, options, controls and the character
 select screen through NVDA, so a blind player can navigate the game without sight.
 
+**[Download the latest release](https://github.com/ohackercego/samurai-shodown-iv-narrator/releases/latest)**
+- unzip into a `mod` folder inside the game directory and run `Ss4Narrator.exe`.
+
 The narrator is a separate, read-only process. It never injects code into the game,
 never writes to game memory, and never modifies game files.
 
